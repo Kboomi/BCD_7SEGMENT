@@ -5,7 +5,7 @@ To design and simulate BCD 7 Segment using vivado.
 # SOFTWARE REQUIRED
 Vivado 2023.2 software.
 # PROCEDURE
-STEP:1 Start the vivado software, Select and Name the New project.
+STEP:1 Start the vivado software, Select and Name the New project .
 
 STEP:2 Select the device family, device, package and speed.
 
